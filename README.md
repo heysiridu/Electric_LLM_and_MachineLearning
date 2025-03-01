@@ -43,7 +43,7 @@ By automating **15.2% of tickets (6,688 tickets/month)** with **90% precision**,
 
 ## Product Mockups
 We designed mockups to demonstrate the threshold-based model:
-https://github.com/heysiridu/Electric_LLM_and_MachineLearning/blob/main/ProductMockup/Frame%20139.jpg
+![alt text](https://github.com/heysiridu/Electric_LLM_and_MachineLearning/blob/main/ProductMockup/Frame%20139.jpg)
 - **High Confidence**: Outputs one prediction.
 - **Low Confidence**: Outputs two predictions for agent review.
 
