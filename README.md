@@ -55,3 +55,6 @@ This project highlights how machine learning can transform IT support, enabling 
 - Models: Logistic Regression, Random Forest, XGBoost, LightGBM, MLP.
 - Evaluation Metric: Precision (minimizing false positives).
 - Techniques: SMOTE for data balancing, threshold-based refinement.
+
+**Team Information**:
+Chulhee Kim, Frank Li, Gufeng Guo, Siri Du
