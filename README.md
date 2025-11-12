@@ -7,6 +7,15 @@ In Fall 2024, as part of the *Analytics in Action* course at Columbia Business S
 ## Problem Statement
 Electric handles **44,000 monthly IT tickets** via Slack, email, and website submissions. Most tickets are repetitive and suitable for automation. However, the existing chat-based system relies on human agents, leading to high operational costs. Our goal was to design a model that classifies tickets based on the initial user message, enabling automation and reducing manual intervention.
 
+## Product Mockups
+We designed mockups to demonstrate the threshold-based model:
+
+![alt text](https://github.com/heysiridu/Electric_LLM_and_MachineLearning/blob/main/ProductMockup/Frame%20139.jpg)
+- **High Confidence**: Outputs one prediction.
+- **Low Confidence**: Outputs two predictions for agent review.
+
+This project highlights how machine learning can transform IT support, enabling companies like Electric to improve efficiency, reduce costs, and focus on higher-value tasks.
+
 ## Key Challenges & Solutions
 1. **Message Misalignment**: 
    - *Challenge*: Conversations contained irrelevant data for initial classification.
@@ -41,15 +50,6 @@ By automating **15.2% of tickets (6,688 tickets/month)** with **90% precision**,
 1. Remove asterisks and clean the dataset for better performance.
 2. Develop APIs for fully automated processes.
 3. Expand the model to handle more complex ticket types.
-
-## Product Mockups
-We designed mockups to demonstrate the threshold-based model:
-
-![alt text](https://github.com/heysiridu/Electric_LLM_and_MachineLearning/blob/main/ProductMockup/Frame%20139.jpg)
-- **High Confidence**: Outputs one prediction.
-- **Low Confidence**: Outputs two predictions for agent review.
-
-This project highlights how machine learning can transform IT support, enabling companies like Electric to improve efficiency, reduce costs, and focus on higher-value tasks.
 
 ---
 
