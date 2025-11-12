@@ -1,7 +1,7 @@
 # Machine Learning Models for IT Ticket Automation
 
 ## Overview and Clarification
-In Fall 2024, as part of the *Analytics in Action* course at Columbia Business School, I collaborated with **Electric**, a Series D startup providing IT support to over 1,000 clients. The project aimed to reduce Electric's monthly operational costs of $1.32 million by automating the classification of IT tickets. By leveraging machine learning models, we achieved **80-90% accuracy** in predicting automatable tickets, saving an estimated **$2 million annually**.
+In Spring 2024, as part of the *Analytics in Action* course at Columbia Business School, I collaborated with **Electric**, a Series D startup providing IT support to over 1,000 clients. The project aimed to reduce Electric's monthly operational costs of $1.32 million by automating the classification of IT tickets. By leveraging machine learning models, we achieved **80-90% accuracy** in predicting automatable tickets, saving an estimated **$2 million annually**.
 (The project involved the help of GitHub Copilot and LLM models)
 
 ## Problem Statement
